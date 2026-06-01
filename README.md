@@ -1,4 +1,4 @@
-# Machine learning Projects
+# Global Terrorism Project
 
 **Predicting Number of Kills in Terrorist Attacks**
 Supervised Machine Learning + Power BI Project
