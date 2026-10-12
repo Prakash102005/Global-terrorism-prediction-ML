@@ -1,7 +1,7 @@
 # 🌍 Global Terrorism Project
 ### Predicting Number of Kills in Terrorist Attacks | Supervised Machine Learning + Power BI
 
-#### Regression models (Linear Regression, Random Forest, XGBoost) predicting fatalities in terrorist attacks. The tuned Random Forest performed best: R² = 0.19, RMSE = 2.94, MAE = 1.42.
+> Regression models (Linear Regression, Random Forest, XGBoost) predicting fatalities in terrorist attacks. The tuned Random Forest performed best: R² = 0.19, RMSE = 2.94, MAE = 1.42.
 
 ---
 
